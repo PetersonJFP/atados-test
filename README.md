@@ -1,3 +1,3 @@
 # atados-test
 
-![](example.gif)
+![](image.png)
