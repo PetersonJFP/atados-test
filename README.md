@@ -1,0 +1,3 @@
+# atados-test
+
+![](example.gif)
